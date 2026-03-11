@@ -1,1 +1,2 @@
 1-from sklearn.datasets import load_iris
+2-from sklearn.model_selection import train_test_split
